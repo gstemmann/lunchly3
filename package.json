@@ -9,10 +9,18 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gstemmann/lunchly3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gstemmann/lunchly3/issues"
+  },
+  "homepage": "https://github.com/gstemmann/lunchly3#readme",
   "description": ""
 }
